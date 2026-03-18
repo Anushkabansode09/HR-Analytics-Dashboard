@@ -14,8 +14,6 @@ This Power BI dashboard analyzes employee attrition and workforce trends.
 - Power BI
 - DAX
 
-## Dashboard Preview
-(Add screenshot here)
 
 ## File
 Download the .pbix file to explore the dashboard.
